@@ -4,7 +4,7 @@ import 'package:gap/gap.dart';
 void main() {
   runApp(const MyApp());
 }
-//test123
+//ko
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
