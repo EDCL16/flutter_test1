@@ -31,7 +31,7 @@ class ProfilePage extends StatelessWidget {
 
             // 標題
             const Text(
-              "Homework 1",
+              "Homework 1!",
               style: TextStyle(fontSize: 26),
             ),
 
